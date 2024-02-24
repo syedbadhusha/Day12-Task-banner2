@@ -1,0 +1,219 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    line-height: 1;
+}
+.row{
+    justify-content: center;
+    margin-top: 30px;
+}
+.titleObe1{
+    max-width: 250px;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20px;
+}
+.titleObe{
+    max-width: 350px;
+    padding-top: 10px;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20px;
+}
+.outercircle{
+    border-radius: 50%;
+    background-color: white;
+    height: 80px;
+    text-align: center;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;
+}
+.circle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    border: 3px solid black;
+    background-color: rgb(79, 193, 247);
+    height: 70px;
+    width: 70px;
+}
+.alignall1{
+    color: white;
+    background-color: orange;
+    max-width: 300px;
+    text-align: center;
+    padding: 30px;
+    line-height: 1;
+}
+.alignall2{
+    color: white;
+    background-color: rgb(79, 193, 247);
+    max-width: 300px;
+    text-align: center;
+    padding: 30px;
+    line-height: 1;
+}
+.redrowcol1{
+    max-width: 300px;
+    background-color:rgb(243, 85, 85); 
+    color: white;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.redrowcol2{
+    max-width: 300px;
+    background-color:rgb(243, 85, 85); 
+    color: white;
+    padding-top: 30px;
+    padding-right: 30px;
+    line-height: 1.5;
+}
+
+.redfullrow{
+    max-width: 600px;
+    background-color:rgb(243, 85, 85);;
+    color: white;
+    padding: 30px;
+}
+.riskCss1{
+    background-color: rgb(79, 193, 247);
+    max-width: 300px;
+    color: white;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.riskCss2{
+    background-color: rgb(79, 193, 247);
+    max-width: 300px;
+    color: white;
+    padding-left: 30px;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+.friescss{
+    background-color: rgb(243, 85, 85);
+    max-width: 300px;
+    line-height: 1.5;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;    
+}
+.juicecss{
+    background-color: orange;
+    max-width: 300px;
+    line-height: 1.5;
+    padding-top: 40px;
+    padding-left: 30px;
+    padding-bottom: 30px;    
+}
+.toddlers{
+    background-color: rgb(79, 193, 247);
+    max-width: 350px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;        
+}
+.toddlersIcon{
+    background-color: rgb(79, 193, 247);
+    max-width: 250px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;    
+
+}
+.presclr{
+    background-color: orange;
+    max-width: 400px;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+}
+.presclrIcon{
+    background-color: orange;
+    max-width: 200px;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+
+}
+.costcss{
+    background-color: rgb(79, 193, 247);
+    max-width: 300px;
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+.healthycss{
+    background-color: rgb(243, 85, 85);
+    max-width: 300px;
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+.fa-person-walking{
+    font-size: 35px;
+}
+.child{
+    font-size: 30px;
+}
+.fa-child{
+    font-size: 35px;
+}
+.fa-male{
+    font-size: 35px;
+}
+.fa-female{
+    font-size: 35px;
+}
+.fa-bottle-water{
+    color: black;
+    font-size: 30px;
+}
+.fa-apple-whole{
+    color: black;
+    font-size: 15px;
+}
+.fa-smoking{
+    font-size: 30px;
+    color: black; 
+    text-align: center;
+    /* padding: 10px; */
+    width: 80px;
+}
+.fa-hand-holding-dollar{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    width: 80px;
+}
+.fa-martini-glass-citrus{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    width: 80px;
+}
+.fa-triangle-exclamation{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    padding-left: 10px;
+}
+.imagecss{
+    height: 100px;
+    width: 100px;
+}
+.fa-sack-dollar{
+    font-size: 70px;
+}
